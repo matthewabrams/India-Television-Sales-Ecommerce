@@ -1,6 +1,6 @@
 # Television Brands Sold In India
 
-Project is based on markets in India relating to sales in television products. Source of data came from [Kaggle](https://www.kaggle.com/danielgrijalvas/movies), dataset was webscraped from IMDb on July 2021 using Python. Conducted regression and cluster analysis, therefore drawing conclusions related to expenses and revenue of movie companies worldwide from 1980-2020. Made data-driven decisions by sharing recommendations how this movie company can increase its profit. 
+Project is based on markets in India relating to sales in television products. Source of data came from [Kaggle](https://www.kaggle.com/datasets/devsubhash/television-brands-ecommerce-dataset) and Flipkart, an Indian ecommerce company.
 
 # Key Questions & Objectives
 
