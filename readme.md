@@ -1,6 +1,6 @@
-# Television Brands Sold In India
+# Television Brands Sold 
 
-Project is based on markets in India relating to sales in television products. Source of data came from [Kaggle](https://www.kaggle.com/datasets/devsubhash/television-brands-ecommerce-dataset) and Flipkart, an Indian ecommerce company.
+Project is based on eccomerce sales relating to television products. Source of data came from [Kaggle](https://www.kaggle.com/datasets/devsubhash/television-brands-ecommerce-dataset)
 
 # Key Questions & Objectives
 
@@ -24,4 +24,4 @@ Scripts             # Folder contains scripts of advanced analysis like regressi
 
 # Tableau Dashboard
 
-Here is the project delivery that describes my analysis: [Television Brands In India Ecommerce Analysis](https://public.tableau.com/app/profile/matthew3308/viz/TelevisionBrandsInIndiaEcommerceAnalysis/Dashboard1?publish=yes)
+Here is the project delivery that describes my analysis: [Television Brands Ecommerce Analysis](https://public.tableau.com/app/profile/matthew3308/viz/TelevisionBrandsEcommerceAnalysis/Dashboard1)
