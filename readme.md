@@ -22,6 +22,6 @@ Scripts             # Folder contains scripts of advanced analysis like regressi
 
 ```
 
-# Tableau Dashboard
+# Power BI Dashboard
 
-Here is the project delivery that describes my analysis: [Television Brands Ecommerce Analysis](https://public.tableau.com/app/profile/matthew3308/viz/TelevisionBrandsEcommerceAnalysis/Dashboard1)
+Here is the project delivery that describes my analysis: [Television Brands Ecommerce Analysis](https://drive.google.com/file/d/1Cqm5YBja3mbsoJEOB-tTcuE_3KRdfH-r/view?usp=sharing)
